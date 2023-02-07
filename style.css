@@ -1,7 +1,8 @@
 body {
     background-color: #162950;
 }
-.header{
+
+.header {
     display: flex;
     justify-content: center;
     flex-direction: row;
@@ -10,6 +11,7 @@ body {
     /* flex-wrap: wrap; */
     /* flex-shrink: inherit; */
 }
+
 /* Header */
 #main {
     /* position: absolute; */
@@ -124,17 +126,18 @@ body {
 
 #b1 {
     position: absolute;
-    width: 171px;
-    height: 42px;
-    left: 301px;
-    top: 659px;
-    background-color: #13ADC7;
-    border-radius: 20%;
-    position: absolute;
-    width: 153px;
+    width: 280px;
+    height: 80px;
+    left: 22px;
+    top: px;
+
+    background: linear-gradient(270deg, #13ADC7 0%, #6978D1 66.67%, #945DD6 100%);
+    border-radius: 83px;
+    /* position: absolute; */
+    /* width: 153px;
     height: 42px;
     left: 27px;
-    top: 251px;
+    top: 251px; */
 
     font-family: 'Poppins';
     font-style: normal;
